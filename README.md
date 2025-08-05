@@ -26,7 +26,7 @@ console.log("Product")
 
 
 const profile={
-    userName:"Vedant Jadhav",
+    userName:"Amey Wagh",
     isFollow:true,
     followers:231,
     followed:200,
